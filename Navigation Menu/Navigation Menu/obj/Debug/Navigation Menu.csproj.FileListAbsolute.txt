@@ -1,0 +1,6 @@
+D:\c#\Navigation Menu\Navigation Menu\bin\Debug\Navigation Menu.exe.config
+D:\c#\Navigation Menu\Navigation Menu\bin\Debug\Navigation Menu.exe
+D:\c#\Navigation Menu\Navigation Menu\bin\Debug\Navigation Menu.pdb
+D:\c#\Navigation Menu\Navigation Menu\obj\Debug\Navigation Menu.csprojAssemblyReference.cache
+D:\c#\Navigation Menu\Navigation Menu\obj\Debug\Navigation Menu.exe
+D:\c#\Navigation Menu\Navigation Menu\obj\Debug\Navigation Menu.pdb
